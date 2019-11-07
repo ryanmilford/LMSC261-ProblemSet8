@@ -1,0 +1,31 @@
+body
+{
+    text-align: center;
+    background-color: cyan;
+}
+
+.rotateimg
+{
+   transform: rotate(90deg)
+}
+
+h1
+{ 
+    color: black;
+    text-decoration: underline;
+    text-decoration-color:white;
+    text-align: center;
+    background-color: cyan;
+}
+
+.page2
+{
+    font-size: medium;
+    text-align: center;
+}
+
+.page3
+{
+    font-size: medium;
+    color: red;
+}
